@@ -1,0 +1,19 @@
+Razonar sobre la falsedad o no de las siguientes afirmaciones:
+
+a) 'c' es una expresión de caracteres.
+b) 4<3 es una expresión numérica.
+c) (4+3)<5 es una expresión numérica.
+d) cout << a; da como salida la escritura en pantalla de una a.
+e) ¿Qué realiza cin >> cte, siendo cte una constante entera?
+
+RESPUESTAS:
+
+a) 'c' es una expresion de caracteres: VERDADERO.
+	
+b) 4<3 es una expresion numerica: FALSO, es una comparacion.
+	
+c) (4+3)<5 es una expresion numerica: FALSO, es una comparacion.
+	
+d) cout << a; da como salida la escritura en pantalla de una a: FALSO, da el valor de la variable a.
+	
+e) ¿Qué realiza cin >> cte, siendo cte una constante entera?: ERROR, no se puede realizar la asignacion al ser un dato constante."
